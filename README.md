@@ -1,6 +1,6 @@
 # poke-java
 
-A pokedex build with web dev tools
+A mini pokedex build with web dev tools
 
 to acess:
 
